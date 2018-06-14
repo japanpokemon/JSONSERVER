@@ -1,0 +1,110 @@
+{
+    "accounts":
+    [
+        {
+            "account": "754084",
+            "status": "入金済み", 
+            "balance": "$10000"
+        },
+        {
+            "account": "754085",
+            "status": "未入金", 
+            "balance": "$2500"
+        },
+        {
+            "account": "754086",
+            "status": "入金済み", 
+            "balance": "$10000"
+        },
+        {
+            "account": "754087",
+            "status": "未入金", 
+            "balance": "$2500"
+        }, 
+        {
+            "account": "754088",
+            "status": "入金済み", 
+            "balance": "$10000"
+        },
+        {
+            "account": "754089",
+            "status": "未入金", 
+            "balance": "$2500"
+        }, 
+        {
+            "account": "754090",
+            "status": "入金済み", 
+            "balance": "$10000"
+        },
+        {
+            "account": "754091",
+            "status": "未入金", 
+            "balance": "$2500"
+        }, 
+        {
+            "account": "754092",
+            "status": "入金済み", 
+            "balance": "$10000"
+        },
+        {
+            "account": "754093",
+            "status": "未入金", 
+            "balance": "$2500"
+        },  
+        {
+            "account": "754094",
+            "status": "入金済み", 
+            "balance": "$10000"
+        },
+        {
+            "account": "754095",
+            "status": "未入金", 
+            "balance": "$2500"
+        }, 
+        {
+            "account": "754096",
+            "status": "入金済み", 
+            "balance": "$10000"
+        },
+        {
+            "account": "754097",
+            "status": "未入金", 
+            "balance": "$2500"
+        } 
+    ],
+
+    "accountDetails":
+    [
+        {
+            "account": "754084",
+            "status": "入金済み", 
+            "balance": "$10000",
+            "isIndividual": true,
+            "accountType": "スタンダード",
+            "currency": "JPY",
+            "createDate": "DEC. 21 2015",
+            "metatraderlogin": "754084",
+            "metatraderpw": "PPAAASSWORRDD",
+            "metatraderpwRead": "PPPWWWRRRREAD",
+            "leverage": "400:1"
+        }
+    ],
+
+       "customers":
+    [
+        {
+            "firstname": "Takeo",
+            "lastname": "Inoue", 
+            "fullname": "Takeo Inoue",
+            "isIndividual": true,
+            "email": "TInoue@miltonmarkets.com",
+            "status": "確認済み",
+            "phone": "8003331234",
+            "cellphone": "8003331235",
+            "selfquestion": "What city were you born in?",
+            "selfanswer": "日本",
+            "password": "Qwerty123456",
+            "registerdate": "2017-11-02"
+        }
+    ]
+}
